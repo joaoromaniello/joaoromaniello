@@ -1,4 +1,4 @@
-### Hi there 👋
+
 - 💻 Computer Science in Universidade Federal de Uberlândia...
 -  6/8
 - 📫 @joaonardinir
