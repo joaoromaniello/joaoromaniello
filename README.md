@@ -10,10 +10,9 @@ Estou cursando Ciência da Computação na Universidade Federal de Uberlândia. 
 
 ## 💻 Habilidades Técnicas
 
-- Linguagens de programação: Java, JavaScript, PHP
-- Ferramentas e frameworks: React-Native, Expo-CLI
+- Linguagens de programação: Java, JavaScript, Python e C
 - Conhecimentos em estruturas de dados e algoritmos
-- Interesse em desenvolvimento de software, DevOps e Inteligência Artificial
+- Interesse em Analise de dados,desenvolvimento de software, DevOps e Inteligência Artificial 
 
 ## 📂 Projetos recentes
 
@@ -22,7 +21,7 @@ Estou cursando Ciência da Computação na Universidade Federal de Uberlândia. 
 
 ## 📫 Entre em contato
 
-Você pode me encontrar no Twitter como [@joaonardinir](https://twitter.com/joaonardinir).
+Você pode me encontrar no Twitter como [@joaonardinir](https://twitter.com/joaonardinir) ou no Instagram como [@joaonardinir](https://instagram.com/joaonardinir) 
 
 
 
