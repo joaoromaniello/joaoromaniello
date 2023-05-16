@@ -5,7 +5,7 @@ Estou cursando Ciência da Computação na Universidade Federal de Uberlândia. 
 ## 😄 Sobre mim 
 
 - 🎮 Amo jogos e comida mexicana
-- 📚 Atualmente estou na 6ª fase do meu curso
+- 📚 Atualmente estou no sétimo periodo do meu curso
 - 💡 Sempre em busca de novos desafios e oportunidades para aprender
 
 ## 💻 Habilidades Técnicas
