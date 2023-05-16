@@ -22,7 +22,7 @@ Estou cursando Ciência da Computação na Universidade Federal de Uberlândia. 
 
 ## 📫 Entre em contato
 
-Você pode me encontrar no Twitter como [@joaonardinir](https://twitter.com/joaonardinir) ou no Instagram como [@joaonardinir](https://instagram.com/joaonardinir) 
+Você pode me encontrar no Instagram como [@joaonardinir](https://instagram.com/joaonardinir) 
 
 
 
