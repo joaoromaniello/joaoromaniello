@@ -18,6 +18,7 @@ Estou cursando Ciência da Computação na Universidade Federal de Uberlândia. 
 
 - [PushDownAutomata](https://github.com/joaoromaniello/PushDownAutomata): Algoritmo criado para fins acadêmicos, com o objetivo de aprender como um Autômato de Pilha funciona.
 - [TuringMachine](https://github.com/joaoromaniello/TuringMachine): Simulação de como uma Máquina de Turing funciona.
+- [Soccer Matches Analyser](https://github.com/joaoromaniello/odds.git): Algoritmo de analise de dados esportivos feitos com webscrap na pagina [FootyStats](https://footystats.org/)
 
 ## 📫 Entre em contato
 
