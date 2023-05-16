@@ -18,7 +18,6 @@ Estou cursando Ciência da Computação na Universidade Federal de Uberlândia. 
 ## 📂 Projetos recentes
 
 - [PushDownAutomata](https://github.com/joaoromaniello/PushDownAutomata): Algoritmo criado para fins acadêmicos, com o objetivo de aprender como um Autômato de Pilha funciona.
-- [Nubank-Clone](https://github.com/joaoromaniello/Nubank-Clone): Clone da interface do aplicativo Nubank, feito com React-Native e Expo-CLI.
 - [TuringMachine](https://github.com/joaoromaniello/TuringMachine): Simulação de como uma Máquina de Turing funciona.
 
 ## 📫 Entre em contato
