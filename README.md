@@ -10,7 +10,8 @@ Estou cursando Ciência da Computação na Universidade Federal de Uberlândia. 
 
 ## 💻 Habilidades Técnicas
 
-- Linguagens de programação: Java, JavaScript, Python e C
+- Linguagens de programação: Java, JavaScript, Python , C , TypeScript,  HTML e CSS
+- Conhecimento de frameworks modernos para desenlvovimento web *( Angular e Node)*
 - Conhecimentos em estruturas de dados e algoritmos
 - Interesse em Analise de dados,desenvolvimento de software, DevOps e Inteligência Artificial 
 
