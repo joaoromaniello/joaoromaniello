@@ -8,18 +8,19 @@ Estou cursando Ciência da Computação na Universidade Federal de Uberlândia. 
 - 📚 Atualmente estou no ultimo periodo do meu curso
 - 💡 Sempre em busca de novos desafios e oportunidades para aprender
 
+## 📂 Projetos recentes
+
+- [PushDownAutomata](https://github.com/joaoromaniello/PushDownAutomata): Algoritmo criado para fins acadêmicos, com o objetivo de aprender como um Autômato de Pilha funciona.
+- [TuringMachine](https://github.com/joaoromaniello/TuringMachine): Simulação de como uma Máquina de Turing funciona.
+- [Soccer Matches Analyser](https://github.com/joaoromaniello/odds.git): Algoritmo de analise de dados esportivos feitos com webscrap na pagina [FootyStats](https://footystats.org/)
+
+
 ## 💻 Habilidades Técnicas
 
 - Linguagens de programação: Java, JavaScript, Python , C , TypeScript,  HTML e CSS
 - Conhecimento de frameworks modernos para desenlvovimento web *( Angular e Node)*
 - Conhecimentos em estruturas de dados e algoritmos
 - Interesse em Analise de dados,desenvolvimento de software, DevOps e Inteligência Artificial 
-
-## 📂 Projetos recentes
-
-- [PushDownAutomata](https://github.com/joaoromaniello/PushDownAutomata): Algoritmo criado para fins acadêmicos, com o objetivo de aprender como um Autômato de Pilha funciona.
-- [TuringMachine](https://github.com/joaoromaniello/TuringMachine): Simulação de como uma Máquina de Turing funciona.
-- [Soccer Matches Analyser](https://github.com/joaoromaniello/odds.git): Algoritmo de analise de dados esportivos feitos com webscrap na pagina [FootyStats](https://footystats.org/)
 
 ## 📫 Entre em contato
 
