@@ -1,6 +1,6 @@
 # Hello! 👋 I'm João Antônio Nardini Romaniello
 
-I’m a Computer Science graduate from the Federal University of Uberlândia. I have a passion for solving problems through programming and have gained extensive experience working on innovative projects. As a fast learner, I’m always excited to explore new technologies and improve my skills.
+As a fast learner, I’m always excited to explore new technologies and improve my skills.
 
 ## 😄 About Me 
 
