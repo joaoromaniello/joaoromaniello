@@ -1,33 +1,34 @@
-# Olá! 👋 Eu sou o João Antônio Nardini Romaniello
+# Hello! 👋 I'm João Antônio Nardini Romaniello
 
-Estou cursando Ciência da Computação na Universidade Federal de Uberlândia. Tenho paixão por resolver problemas utilizando a programação. Sou um aprendiz rápido e estou sempre animado para aprender novas tecnologias e linguagens de programação.
+I’m a Computer Science graduate from the Federal University of Uberlândia. I have a passion for solving problems through programming and have gained extensive experience working on innovative projects. As a fast learner, I’m always excited to explore new technologies and improve my skills.
 
-## 😄 Sobre mim 
+## 😄 About Me 
 
-- 🎮 Amo jogos e computadores
-- 📚 Atualmente estou no ultimo periodo do meu curso
-- 💡 Sempre em busca de novos desafios e oportunidades para aprender
+- 🎮 I love games and computers
+- 💡 Always seeking new challenges and opportunities to learn
+- 🤝 Experienced in collaborative and high-impact projects
 
-## 📂 Projetos recentes
+## 📂 Recent Projects and Experiences
 
-- [Soccer Matches Analyser](https://github.com/joaoromaniello/odds.git): Algoritmo de analise de dados esportivos feitos com webscrap na pagina [FootyStats](https://footystats.org/)
-- [PushDownAutomata](https://github.com/joaoromaniello/PushDownAutomata): Algoritmo criado para fins acadêmicos, com o objetivo de aprender como um Autômato de Pilha funciona.
-- [TuringMachine](https://github.com/joaoromaniello/TuringMachine): Simulação de como uma Máquina de Turing funciona.
+- [Soccer Matches Analyser](https://github.com/joaoromaniello/odds.git): A sports data analysis algorithm using web scraping on the [FootyStats](https://footystats.org/) page.
+- [PushDownAutomata](https://github.com/joaoromaniello/PushDownAutomata): An algorithm created for academic purposes to learn how a Pushdown Automaton works.
+- [TuringMachine](https://github.com/joaoromaniello/TuringMachine): A simulation of how a Turing Machine operates.
+- **WhatsApp Chatbot Development**: Created and maintained advanced chatbots integrated with WhatsApp, focusing on efficient workflows and scalability using Node.js and Java with Spring Boot.
+- **n8n Integration Flows**: Designed and implemented complex integration flows using n8n, ensuring secure and efficient data management through APIs and webhooks.
+- **Technical Leadership in Messaging Systems**: Contributed to the optimization and scalability of message delivery systems on platforms like 360dialog.
 
+## 💻 Technical Skills
 
+- Programming languages: Java, JavaScript, Python, C, TypeScript, HTML, and CSS
+- Knowledge of modern web development frameworks *(Angular, Node.js, and Spring Boot)*
+- Experience with data structures, algorithms, and design patterns (SOLID principles)
+- Expertise in building chatbots, data integration, and API development
+- Familiarity with CI/CD pipelines and DevOps practices using tools like Docker and Azure DevOps
+- Interests in data analysis, software development, and Artificial Intelligence
 
-## 💻 Habilidades Técnicas
+## 📫 Contact Me
 
-- Linguagens de programação: Java, JavaScript, Python , C , TypeScript,  HTML e CSS
-- Conhecimento de frameworks modernos para desenlvovimento web *( Angular e Node)*
-- Conhecimentos em estruturas de dados e algoritmos
-- Interesse em Analise de dados,desenvolvimento de software, DevOps e Inteligência Artificial 
-
-## 📫 Entre em contato
-
-Você pode me encontrar no Instagram como [@joaonardinir](https://instagram.com/joaonardinir) 
-
-
+You can find me on Instagram at [@joaonardinir](https://instagram.com/joaonardinir).
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoromaniello&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
